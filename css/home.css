@@ -72,12 +72,3 @@ input {
 #message {
     padding: 30px;
 }
-
-
-@media screen and (min-width:700px){
-
-}
-
-@media screen and (min-width:900px){
-    /* change display to move logos right of text blurb */
-}
